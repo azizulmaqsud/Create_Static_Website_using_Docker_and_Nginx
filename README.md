@@ -13,3 +13,12 @@
 - See your static website landed! 
 # Docker is landed here!
 # This Static website is hosted on Nginx with Docker
+# Let's be connected with me at the following links
+ 
+- https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg
+- https://www.linkedin.com/in/azizul-maqsud/
+- https://azizulmaqsud-1684501031000.hashnode.dev/
+- https://twitter.com/Sohail2me
+- https://www.buymeacoffee.com/azizulmaqsud
+
+# Learn_with_Azizul
